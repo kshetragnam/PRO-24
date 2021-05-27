@@ -1,1 +1,1 @@
-# PRO-24
+# Box Class
